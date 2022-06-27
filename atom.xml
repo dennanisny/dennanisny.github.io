@@ -6,7 +6,7 @@
   <link href="https://dennanisny.github.io/atom.xml" rel="self"/>
   
   <link href="https://dennanisny.github.io/"/>
-  <updated>2022-05-22T06:47:03.573Z</updated>
+  <updated>2022-06-24T02:32:52.327Z</updated>
   <id>https://dennanisny.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How to transfer Fidelity 401k to Vanguard</title>
+    <link href="https://dennanisny.github.io/2022/06/23/transfer-fidelity-401k/"/>
+    <id>https://dennanisny.github.io/2022/06/23/transfer-fidelity-401k/</id>
+    <published>2022-06-24T02:32:12.000Z</published>
+    <updated>2022-06-24T02:32:52.327Z</updated>
+    
+    
+    
+    
+    
+    <category term="笔记" scheme="https://dennanisny.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>第二大脑</title>
@@ -44,9 +59,9 @@
     <link href="https://dennanisny.github.io/2022/01/15/podcast-101/"/>
     <id>https://dennanisny.github.io/2022/01/15/podcast-101/</id>
     <published>2022-01-16T05:35:21.000Z</published>
-    <updated>2022-05-09T00:31:24.121Z</updated>
+    <updated>2022-06-24T02:35:23.958Z</updated>
     
-    <content type="html"><![CDATA[<p>可能是从上大学的某一年冬天开始无意中听到了机核的一期关于<a href="https://www.gcores.com/radios/21352">过冬的日常节目</a>，开始养成了收听播客的习惯。当时身处热带北纬一度的我，在二十多度的空调房里面听机核的几位分享着北方过冬的故事，关于故乡的回忆扑面而来。</p><p>来到湾区以后，日常的通勤交通工具从地铁变成了汽车，解决了地铁上噪音过大担心听东西会伤到听力这个痛点，播客更是成为了我日常生活中不可或缺的一部分。听得多了以后自己也有了表达的欲望，而促成我和领导创建自己的播客的契机便是<a href="https://www.buzzsprout.com/1836802/9034656-">去年八月份的一次露营</a>，发生了很多惊险而有趣的事情，于是我们决定通过播客的形式把它记录下来。</p><p>这篇博客主要是想要记录制作一期播客从录音，剪辑到发布的整个过程，一来是作为日后的笔记，二来是帮助有同样想法的朋友，三来是交流一些遇到的问题通过抛砖引玉的方式获得一些指点。</p><h3 id="录音"><a href="#录音" class="headerlink" title="录音"></a>录音</h3><p>录音的设备是领导之前为了录B站的视频购买的，就是一个简单的话筒加一个防喷罩。我们录第一期节目的时候NG的次数很多，所以有很多段音频，为后期的剪辑造成了一些挑战，比如音频之间的音量不同，这个下一段我会详细讲。总之我的感觉是最好提前写好大纲一次录完，大纲也可以帮助控制时间，不然就会出现我们第一期节目讲了50多分钟的情况。</p><h3 id="剪辑"><a href="#剪辑" class="headerlink" title="剪辑"></a>剪辑</h3><p>第一期节目使用的剪辑软件是Mac的GarageBand。因为是第一次剪辑音频，怕激情被无尽的针对剪辑软件的前期调查消磨殆尽，于是直接选择了Mac系统下面的GarageBand。剪辑的主要时间都花在了片头片尾音乐的选择以及渐进进出的效果上面，这里推荐一下YouTube的Audio Library，我是在上面通过歌曲表达的情绪找到了心仪的背景音乐。这是官方的<a href="https://support.google.com/youtube/answer/3376882?hl=en">指南</a>。</p><p>剪辑第二期节目的时候，我恰好换到了安装了Windows的台式机，因此需要换一款剪辑软件。Google搜索的第一条结果就是Audacity，本着用的多的软件相关文档更丰富的原则，我选择了它，而且事实证明我的选择是正确的。<a href="https://manual.audacityteam.org/man/tutorials.html">官方文档</a>里面的几篇教程完美契合了我的需求。如果你更喜欢看视频的话，这个<a href="https://youtu.be/aCisC3sHneM">YouTube上面的教程</a>也不错。</p><p>个人感觉Audacity的界面更加简洁易懂，跟着官方文档很快就可以把渐进渐出，去噪，标准化音量，去除爆音这些操作学会。</p><h3 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h3><p>发布第一期节目的时候，年幼无知的我们直接购买了一年的Apple Podcasters Program，以为可以在苹果的平台上托管我们节目同时通过RSS Feed发布到其他平台，可惜这段话只有前半段是正确的。这可能也是为什么该项目的年费只有19.99美元，而在Buzzsprout上面托管需要12美元一个月吧。有了Buzzsprout的RSS Feed，我们就可以把节目发布到Spotify了，而且据我观察Spotify也并不提供播客托管服务。</p><p>为了方便国内的家人们收听，我们还把节目上传到了喜马拉雅，但是同样找不到RSS Feed，即使使用了网上找到的教程修改节目的URL链接也不行，因为尝试导入小宇宙的时候显示无法找到节目，然而Buzzsprout的是可以的。</p><p>总之经过一番折腾，我们的节目发布在了苹果，Spotify，喜马拉雅和小宇宙四个平台上面。</p><h3 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h3><p>播客意外地成为了一个我们和父母沟通的方式。相比较于每周一次的视频，播客提供了一个对于我们生活经历的完整叙述，而且记录了许多视频时无法想起的细节。我爸现在会在每一期节目下面留言（同时也是每期节目的唯一留言），也会催更，真的是充满了乐趣。</p><h3 id="播客地址"><a href="#播客地址" class="headerlink" title="播客地址"></a>播客地址</h3><p>最后允许我打个广告，欢迎以下平台收听我们的播客</p><ul><li>喜马拉雅: <a href="https://www.ximalaya.com/album/52204692">https://www.ximalaya.com/album/52204692</a></li><li>小宇宙: <a href="https://www.xiaoyuzhoufm.com/podcast/61e35736b54d285407a0959b?s=eyJ1IjogIjYwMmNjYWYxZTBmNWU3MjNiYjU1NGZlYiJ9">https://www.xiaoyuzhoufm.com/podcast/61e35736b54d285407a0959b?s=eyJ1IjogIjYwMmNjYWYxZTBmNWU3MjNiYjU1NGZlYiJ9</a></li><li>苹果博客: <a href="https://apple.co/3rmjfqn">https://apple.co/3rmjfqn</a></li><li>Spotify: <a href="https://open.spotify.com/show/4FugngL5JHxjJkE95knPR0">https://open.spotify.com/show/4FugngL5JHxjJkE95knPR0</a></li><li>RSS Feed: <a href="https://feeds.buzzsprout.com/1836802.rss">https://feeds.buzzsprout.com/1836802.rss</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>可能是从上大学的某一年冬天开始无意中听到了机核的一期关于<a href="https://www.gcores.com/radios/21352">过冬的日常节目</a>，开始养成了收听播客的习惯。当时身处热带北纬一度的我，在二十多度的空调房里面听机核的几位分享着北方过冬的故事，关于故乡的回忆扑面而来。</p><p>来到湾区以后，日常的通勤交通工具从地铁变成了汽车，解决了地铁上噪音过大担心听东西会伤到听力这个痛点，播客更是成为了我日常生活中不可或缺的一部分。听得多了以后自己也有了表达的欲望，而促成我和领导创建自己的播客的契机便是<a href="https://www.buzzsprout.com/1836802/9034656-">去年八月份的一次露营</a>，发生了很多惊险而有趣的事情，于是我们决定通过播客的形式把它记录下来。</p><p>这篇博客主要是想要记录制作一期播客从录音，剪辑到发布的整个过程，一来是作为日后的笔记，二来是帮助有同样想法的朋友，三来是交流一些遇到的问题通过抛砖引玉的方式获得一些指点。</p><h1 id="录音"><a href="#录音" class="headerlink" title="录音"></a>录音</h1><p>录音的设备是领导之前为了录B站的视频购买的，就是一个简单的话筒加一个防喷罩。我们录第一期节目的时候NG的次数很多，所以有很多段音频，为后期的剪辑造成了一些挑战，比如音频之间的音量不同，这个下一段我会详细讲。总之我的感觉是最好提前写好大纲一次录完，大纲也可以帮助控制时间，不然就会出现我们第一期节目讲了50多分钟的情况。</p><h1 id="剪辑"><a href="#剪辑" class="headerlink" title="剪辑"></a>剪辑</h1><p>第一期节目使用的剪辑软件是Mac的GarageBand。因为是第一次剪辑音频，怕激情被无尽的针对剪辑软件的前期调查消磨殆尽，于是直接选择了Mac系统下面的GarageBand。剪辑的主要时间都花在了片头片尾音乐的选择以及渐进进出的效果上面，这里推荐一下YouTube的Audio Library，我是在上面通过歌曲表达的情绪找到了心仪的背景音乐。这是官方的<a href="https://support.google.com/youtube/answer/3376882?hl=en">指南</a>。</p><p>剪辑第二期节目的时候，我恰好换到了安装了Windows的台式机，因此需要换一款剪辑软件。Google搜索的第一条结果就是Audacity，本着用的多的软件相关文档更丰富的原则，我选择了它，而且事实证明我的选择是正确的。<a href="https://manual.audacityteam.org/man/tutorials.html">官方文档</a>里面的几篇教程完美契合了我的需求。如果你更喜欢看视频的话，这个<a href="https://youtu.be/aCisC3sHneM">YouTube上面的教程</a>也不错。</p><p>个人感觉Audacity的界面更加简洁易懂，跟着官方文档很快就可以把渐进渐出，去噪，标准化音量，去除爆音这些操作学会。</p><h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><p>发布第一期节目的时候，年幼无知的我们直接购买了一年的Apple Podcasters Program，以为可以在苹果的平台上托管我们节目同时通过RSS Feed发布到其他平台，可惜这段话只有前半段是正确的。这可能也是为什么该项目的年费只有19.99美元，而在Buzzsprout上面托管需要12美元一个月吧。有了Buzzsprout的RSS Feed，我们就可以把节目发布到Spotify了，而且据我观察Spotify也并不提供播客托管服务。</p><p>为了方便国内的家人们收听，我们还把节目上传到了喜马拉雅，但是同样找不到RSS Feed，即使使用了网上找到的教程修改节目的URL链接也不行，因为尝试导入小宇宙的时候显示无法找到节目，然而Buzzsprout的是可以的。</p><p>总之经过一番折腾，我们的节目发布在了苹果，Spotify，喜马拉雅和小宇宙四个平台上面。</p><h1 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h1><p>播客意外地成为了一个我们和父母沟通的方式。相比较于每周一次的视频，播客提供了一个对于我们生活经历的完整叙述，而且记录了许多视频时无法想起的细节。我爸现在会在每一期节目下面留言（同时也是每期节目的唯一留言），也会催更，真的是充满了乐趣。</p><h1 id="播客地址"><a href="#播客地址" class="headerlink" title="播客地址"></a>播客地址</h1><p>最后允许我打个广告，欢迎以下平台收听我们的播客</p><ul><li>喜马拉雅: <a href="https://www.ximalaya.com/album/52204692">https://www.ximalaya.com/album/52204692</a></li><li>小宇宙: <a href="https://www.xiaoyuzhoufm.com/podcast/61e35736b54d285407a0959b?s=eyJ1IjogIjYwMmNjYWYxZTBmNWU3MjNiYjU1NGZlYiJ9">https://www.xiaoyuzhoufm.com/podcast/61e35736b54d285407a0959b?s=eyJ1IjogIjYwMmNjYWYxZTBmNWU3MjNiYjU1NGZlYiJ9</a></li><li>苹果博客: <a href="https://apple.co/3rmjfqn">https://apple.co/3rmjfqn</a></li><li>Spotify: <a href="https://open.spotify.com/show/4FugngL5JHxjJkE95knPR0">https://open.spotify.com/show/4FugngL5JHxjJkE95knPR0</a></li><li>RSS Feed: <a href="https://feeds.buzzsprout.com/1836802.rss">https://feeds.buzzsprout.com/1836802.rss</a></li></ul>]]></content>
     
     
       
@@ -66,12 +81,17 @@
     <link href="https://dennanisny.github.io/2021/07/24/first-post/"/>
     <id>https://dennanisny.github.io/2021/07/24/first-post/</id>
     <published>2021-07-24T22:39:32.000Z</published>
-    <updated>2022-05-09T00:31:09.159Z</updated>
+    <updated>2022-06-24T02:34:46.660Z</updated>
     
-    <content type="html"><![CDATA[<p>个人网站的第一篇博客，说说它的来历吧</p><span id="more"></span><p>第一次有创建个人网站的想法应该是来美国读硕士期间看到小叶的个人网站的时候。</p><p>这小子当时自己买了个域名在上面搭建了一个个人网站，用了一个设计简约大气的主题，发给我们看。当时的感觉就像是初中时看到班上的同学从书包里掏出来一个崭新的MP4在上面看电影，很是羡慕并且自己也想拥有一个。</p><p>不过貌似小叶并没有继续经营他的个人网站，因为最近再次访问的时候发现那个域名已经被注销了。</p><p>第二次有这个想法是加入VMware工作以后看到了Ming的<a href="https://bitmingw.com/">博客</a>，内容丰富，信息硬核，界面美观。</p><p>这一次不再拖延，正好最近也忙完了某件大事（具体细节会在九月份公布），说干就干，于是就从谷歌搜索个人网站开始，看到了少数派的这篇<a href="https://sspai.com/post/59337">教程</a>，发现Ming用的也是Hexo这个框架，觉得有戏，果然昨天下午鼓捣了一个多小时之后在GitHub Pages上面搭建起了人生中的第一个个人网站。试了几个主题，发现都没有NexT这个主流主题好看简约，所以撞车就撞车吧。</p><p>以后会在这里记录生活的点滴与感悟，技术方面有意思的发现与积累，还有其他。并不指望自己的小破站有啥流量，主要是为了有个地方可以时不时回头看看自己的成长，顺便在填写工作申请表格的时候可以不用空着Personal Website那一栏。</p>]]></content>
+    <content type="html"><![CDATA[<p>个人网站的第一篇博客，说说它的来历吧</p><p>第一次有创建个人网站的想法应该是来美国读硕士期间看到小叶的个人网站的时候。</p><p>这小子当时自己买了个域名在上面搭建了一个个人网站，用了一个设计简约大气的主题，发给我们看。当时的感觉就像是初中时看到班上的同学从书包里掏出来一个崭新的MP4在上面看电影，很是羡慕并且自己也想拥有一个。</p><p>不过貌似小叶并没有继续经营他的个人网站，因为最近再次访问的时候发现那个域名已经被注销了。</p><p>第二次有这个想法是加入VMware工作以后看到了Ming的<a href="https://bitmingw.com/">博客</a>，内容丰富，信息硬核，界面美观。</p><p>这一次不再拖延，正好最近也忙完了某件大事（具体细节会在九月份公布），说干就干，于是就从谷歌搜索个人网站开始，看到了少数派的这篇<a href="https://sspai.com/post/59337">教程</a>，发现Ming用的也是Hexo这个框架，觉得有戏，果然昨天下午鼓捣了一个多小时之后在GitHub Pages上面搭建起了人生中的第一个个人网站。试了几个主题，发现都没有NexT这个主流主题好看简约，所以撞车就撞车吧。</p><p>以后会在这里记录生活的点滴与感悟，技术方面有意思的发现与积累，还有其他。并不指望自己的小破站有啥流量，主要是为了有个地方可以时不时回头看看自己的成长，顺便在填写工作申请表格的时候可以不用空着Personal Website那一栏。</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;个人网站的第一篇博客，说说它的来历吧&lt;/p&gt;</summary>
+      
+      
+    <summary type="html">&lt;p&gt;个人网站的第一篇博客，说说它的来历吧&lt;/p&gt;
+&lt;p&gt;第一次有创建个人网站的想法应该是来美国读硕士期间看到小叶的个人网站的时候。&lt;/p&gt;
+&lt;p&gt;这小子当时自己买了个域名在上面搭建了一个个人网站，用了一个设计简约大气的主题，发给我们看。当时的感觉就像是初中时看到班上的同学从书包</summary>
+      
     
     
     
